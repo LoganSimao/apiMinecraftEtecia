@@ -5,14 +5,17 @@
   "main": "index.js",
   "scripts": {
     "test": "olá",
-    "start": "node index.js"
+    "start": "node ./index.js"
   },
-  "author": "",
+  "author": "Logan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
   },
   "engines": {
     "node": "14.16.1"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.3"
   }
 }
