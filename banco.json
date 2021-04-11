@@ -1,0 +1,58 @@
+
+{
+    "ferramentas":[
+        {
+            "id": 1,
+            "nome": "Machado",
+            "descricao": "util para coletar madeira"
+
+        },
+        {
+            "id": 2,
+            "nome": "Picareta",
+            "descricao": "util para coletar minérios"
+
+        }
+
+    ],
+
+    "minerios":[
+        {
+            "id": 1,
+            "nome": "Ferro",
+            "descricao": "util para criar ferramentas, armaduras e utensilios",
+            "localizacao": "Achado em abundância na camada 42"
+        },
+        {
+            "id": 2,
+            "nome": "Ouro",
+            "descricao": "util para criar ferramentas, armaduras e utensilios",
+            "localizacao": "Achado em abundância na camada 28"
+        },
+        {
+            "id": 2,
+            "nome": "Diamante",
+            "descricao": "util para criar ferramentas, armaduras e utensilios",
+            "localizacao": "Achado em abundância na camada 12"
+        }
+    ],
+
+    "comidas":[
+        {
+            "id": 1,
+            "nome": "batata",
+            "informacoes": "batatas podem ser consumidas cruas ou cozidas"
+        },
+        {
+            "id": 2,
+            "nome": "cenoura",
+            "informacoes": "fonte de alimento mais viavel"
+        },
+        {
+            "id": 3,
+            "nome": "trigo",
+            "informacoes": "material necessario para fazer pão"
+        }
+    ]
+    
+}
